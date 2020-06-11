@@ -23,7 +23,9 @@ See above
 
 # Version history
 
-This section is coming soon
+[M3V7-Alpha1.0](https://github.com/seanpm2001/SNU_3D_Root/releases/tag/M3V7-Alpha1.0) - `June 10th 2020 at 5:34 pm (13 commits)`
+
+[V2 (Untitled)](https://www.example.com) - `Coming soon (14 commits as of June 10th 2020 at 5:37 pm)`
 
 ---
 
@@ -31,7 +33,7 @@ This section is coming soon
 
 Currently, I am the only contributer.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 13 commits (As of Wednesday, June 10th 2020 at 5:32 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 14 commits (As of Wednesday, June 10th 2020 at 5:37 pm)
 
 > * 2. No other contributers at the moment
 
@@ -57,9 +59,9 @@ Currently, I am the only contributer.
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Wednesday, June 10th 2020 at 5:32 pm)`
+File version: `2 (Wednesday, June 10th 2020 at 5:37 pm)`
 
-Line count: `0,069`
+Line count: `0,071`
 
 ---
 
